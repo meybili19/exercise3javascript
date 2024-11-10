@@ -27,7 +27,7 @@ Before running this project, you must have the following programs:
 
 2. **Open a Terminal in the Project Folder**:
 
-   - Navigate to the folder where you unzipped the project and go into the `exercise2csharp` project folder.
+   - Navigate to the folder where you unzipped the project and go into the `exercise3javascript` project folder.
    - Open a terminal or command prompt (CMD) inside this folder. On Windows, you can right-click the folder and select **"Open PowerShell window here"**.
 
 3. **Build the Docker Image**:
